@@ -132,11 +132,11 @@ urlpatterns = [
 
 ## OUTPUT:
 
-![OUTPUT](./out.png)
+out.png
 
 ### Home Page:
 
-![Home Page](./home.png)
+home.png
 
 
 ## Result:
